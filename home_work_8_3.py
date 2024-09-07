@@ -1,4 +1,4 @@
-# unique_list = []
+
 def find_unique_value(some_list):
     unique_list = []
     for i in some_list:
