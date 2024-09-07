@@ -1,5 +1,4 @@
 def add_one(some_list):
-    # number = int(some_list)
     number = int(''.join(map(str, some_list)))
     number += 1
     finish_list = [int(digit) for digit in str(number)]
